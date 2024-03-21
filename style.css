@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color:yellow;
+  font-family:Comic Sans MS;
+}
+
+h1{
+  width:150px;
+}
+
+.nyu{
+  background-color:orange;
+  border-radius:100px;
+  padding:60px;
+}
+
+.nyu:hover{
+  background-color:grey;
+  color:brown;
+}
+
+.columbia{
+  background-color:lightblue;
+  color:purple;
+  border-radius:100px;
+  padding:60px;
+}
+
+.columbia:hover{
+  background-color:aqua;
+  color:yellow;
+}
+
+.hunter{
+  background-color:yellowgreen;
+  color:orangered;
+  border-radius:100px;
+  padding:60px;
+}
+
+.hunter:hover{
+  background-color:green;
+  color:red;
+}
